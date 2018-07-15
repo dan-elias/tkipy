@@ -1,0 +1,2 @@
+.. automodule:: tkipy.example
+  :members:
