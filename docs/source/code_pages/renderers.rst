@@ -1,4 +1,4 @@
 
-.. automodule:: tk_ipy.renderers
+.. automodule:: tkipy.renderers
   :members:
 

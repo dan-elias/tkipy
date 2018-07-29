@@ -1,4 +1,4 @@
 
-.. automodule:: tk_ipy.widgets
+.. automodule:: tkipy.widgets
   :members:
 

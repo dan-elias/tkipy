@@ -12,7 +12,7 @@ import collections.abc, inspect
 from IPython import display
 import ipywidgets
 
-from tkipy.renderers import html_table
+from .renderers import html_table
 
 
 def explore(obj):
